@@ -1,12 +1,5 @@
-<html>
-<head>
-
-</head>
-	<body>
 		<?php
-		include "Hello.php";
+		include "Quiz1 - Make Instance.php";
 		$panggil = new Foo();
 		$panggil->sayhello();
 		?>
-	</body>
-</html>
