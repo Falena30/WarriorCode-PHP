@@ -13,4 +13,4 @@ class Foo
 		echo "Hello World";
 	}
 }
->
+?>
